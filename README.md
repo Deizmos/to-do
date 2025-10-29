@@ -39,7 +39,7 @@
 ### 1. Клонирование репозитория (если нужно)
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Deizmos/to-do.git
 cd to-do
 ```
 
